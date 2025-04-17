@@ -920,10 +920,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: d576aa1b-32c3-422c-9af6-6e85f1e29899
+  cloudProjectId: 01cb9b45-763b-4f31-9cdb-5102cf9aab56
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: M2_D2_Lab
+  projectName: My project
   organizationId: francescotriassi
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
